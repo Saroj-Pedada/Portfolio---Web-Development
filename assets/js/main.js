@@ -1,13 +1,13 @@
 var img = document.getElementById("image");
 
 function myHobby() {
-    document.location.href = "/hobby.html";
+    document.location.href = "hobby.html";
 }
 
 function Skills() {
-    document.location.href = "/skills.html";
+    document.location.href = "skills.html";
 }
 
 function homePage() {
-    document.location.href = "/index.html";
+    document.location.href = "index.html";
 }
